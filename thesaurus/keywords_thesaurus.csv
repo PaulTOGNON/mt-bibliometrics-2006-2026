@@ -1,0 +1,20 @@
+raw_term,normalized_term,category
+NMT,Neural Machine Translation,Methodology
+Neural Machine Translation,Neural Machine Translation,Methodology
+SMT,Statistical Machine Translation,Methodology
+Statistical Machine Translation,Statistical Machine Translation,Methodology
+Speech-to-Speech,Speech-to-Speech Translation,Modality
+Speech Translation,Speech Translation,Modality
+Spoken Language Translation,Speech Translation,Modality
+Voice-to-Voice,Speech-to-Speech Translation,Modality
+Low-Resource,Low-Resource Languages,Linguistics
+Low-Resource Languages,Low-Resource Languages,Linguistics
+Transformer,Transformer Architecture,Architecture
+Transformers,Transformer Architecture,Architecture
+Deep Learning,Deep Learning,Methodology
+MMS,Massively Multilingual Speech,Foundation Models
+WavLM,WavLM Speech SSL,Foundation Models
+SeamlessM4T,SeamlessM4T Foundation Model,Foundation Models
+Masakhane,Masakhane African NLP,Community
+Bariba,Bariba Language (Baatonum),Target Language
+Baatonum,Bariba Language (Baatonum),Target Language
